@@ -21,7 +21,7 @@
 <b>-Clone o repositório com o comando:</b> `https://github.com/laishelen/desafio-tech` <br>
 <b>-Criando virtual environment:</b> `python -m venv venv`<br>
 <b>-Ativando o virtual environment: </b>`. venv\Scripts\Activate.ps1`<br>
-<b>-Execução do arquivo requirements: </b>`pip install django`<br>
+<b>-Execução do código </b>`pip install django`<br>
 
 *Alterar as configurações do DataBase no arquivo <b>`settings.py`</b> <br>
 
