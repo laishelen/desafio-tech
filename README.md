@@ -29,12 +29,14 @@
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': 'host_bd',
-        'PORT': 'porta_bd',
-        'NAME': 'desafio_final1',
-        'USER': 'usuario_bd',
-        'PASSWORD': 'senha_bd'    
-    }
+        'NAME': "desafiopython",
+        'HOST': 'localhost',
+        'USER': 'root',
+        'PASSWORD': '',
+        'PORT': '3306',
+        'OPTIONS': {
+        'sql_mode': 'traditional',
+        }
 }
 
 -Migre o banco de dados com: `python manage.py migrate` <br>
