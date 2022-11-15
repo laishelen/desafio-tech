@@ -18,7 +18,7 @@
 
 ## <a id="instalacao"> 🔴 PASSO A PASSO DE COMO EXECUTAR A APLICAÇÃO </a>
 
-<b>-Clone o repositório com o camando:</b> `https://github.com/renatamoon/Desafio_1_Cadastro_Django.git` <br>
+<b>-Clone o repositório com o camando:</b> `https://github.com/laishelen/desafio-tech` <br>
 <b>-Criando virtual environment:</b> `python -m venv venv`<br>
 <b>-Ativando o virtual environment: </b>`. venv\Scripts\Activate.ps1`<br>
 <b>-Execução do arquivo requirements: </b>`pip install django`<br>
